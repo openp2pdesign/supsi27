@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="drawing.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -52,9 +52,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#5af780;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 177.14286,186.6479 234.28571,-25.71429 -42.85714,200 L 191.42857,343.79075 225.71429,280.93361 91.428571,246.6479 z"
+       style="fill:#5af780;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 177.14286,186.6479 611.42857,352.36218 368.57143,360.93361 191.42857,343.79075 225.71429,280.93361 -100,180.93361 z"
        id="path2985"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
